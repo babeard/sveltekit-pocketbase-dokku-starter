@@ -1,5 +1,9 @@
 # Sveltekit/Pocketbase/Dokku Monorepo Quick Starter
 
+- Sveltekit ^2.0.0
+- Pocketbase ^0.21.1
+- Dokku ^0.28.1
+
 ## Getting started (Local)
 
 The following files need to be modified with the correct values:
