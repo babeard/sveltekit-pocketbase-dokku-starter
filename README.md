@@ -17,6 +17,7 @@ PUBLIC_POCKETBASE_URL=http://127.0.0.1:8090
 
 ### Setup pocketbase
 
+- Download and extract pocketbase binary file to `./pocketbase/`. See [Pocketbase Docs](https://pocketbase.io/docs/) for more details.
 - Run the following commands:
 
 ```bash
